@@ -7,7 +7,7 @@ Detects face masks in real-time using computer vision and deep learning.
 Efficient and accurate mask detection in webcam streams using CNN + OpenCV + Caffe SSD.
 
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-red)![OpenCV](https://img.shields.io/badge/OpenCV-Enabled-purple)![License](https://img.shields.io/badge/License-MIT-yellow)
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-red)![OpenCV](https://img.shields.io/badge/OpenCV-Enabled-purple)
 ---
 
 ## Table of Contents
