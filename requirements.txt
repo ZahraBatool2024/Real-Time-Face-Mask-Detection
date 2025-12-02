@@ -1,0 +1,13 @@
+# Core libraries
+numpy>=1.21
+pillow>=8.0
+
+# Computer vision
+opencv-python>=4.5
+opencv-contrib-python>=4.5
+
+# Deep learning
+torch>=1.12
+torchvision>=0.13
+
+
