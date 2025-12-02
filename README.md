@@ -7,7 +7,7 @@ Detects face masks in real-time using computer vision and deep learning.
 Efficient and accurate mask detection in webcam streams using CNN + OpenCV + Caffe SSD.
 
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-red)![OpenCV](https://img.shields.io/badge/OpenCV-Enabled-purple)
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-red)![OpenCV](https://img.shields.io/badge/OpenCV-Enabled-purple)![License](https://img.shields.io/badge/License-MIT-yellow)
 ---
 
 ## Table of Contents
@@ -70,8 +70,7 @@ Download the pretrained CNN model (mask_detector.pth) from Google Drive:
   
 ### Technologies Used
 <!-- First row: 3 badges, no space -->
-<img src="https://img.shields.io/badge/PyTorch-CNN-red?logo=pytorch&logoColor=white"/><img src="https://img.shields.io/badge/OpenCV-Webcam-purple?logo=opencv&logoColor=white"/><img src="https://img.shields.io/badge/Face%20Mask-Classification-blue?logo=none"/><img src="https://img.shields.io/badge/Deep%20Learning-Enabled-orange?logo=none"/><img src="https://img.shields.io/badge/Caffe-SSD-yellow?logo=caffe&logoColor=white"/><img src="https://img.shields.io/badge/Python-PIL%2C%20NumPy-3.8%2B?logo=python&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/PyTorch-CNN-red?logo=pytorch&logoColor=white"/><img src="https://img.shields.io/badge/OpenCV-Webcam-purple?logo=opencv&logoColor=white"/><img src="https://img.shields.io/badge/Face%20Mask-Classification-blue?logo=none"/><img src="https://img.shields.io/badge/Deep%20Learning-Enabled-orange?logo=none"/><img src="https://img.shields.io/badge/Caffe-SSD-yellow?logo=caffe&logoColor=white"/>
 ---
 
 ### Caffe SSD Face Detector
